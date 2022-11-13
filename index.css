@@ -1,0 +1,33 @@
+body{
+    background-color: gray;
+    text-align: center;
+}
+h1{
+    margin: 3rem;
+    font-size: 8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-shadow: 0 0 8px #FF0000;
+    color: white;
+    /* text-shadow: 2px 2px 8px #000000; */
+    /* text-shadow: 2px 2px 8px #FF0000; */
+}
+.dice{
+    display: inline-block;
+    font-size: 2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: cornflowerblue;
+    margin: 2rem;
+}
+.refresh{
+    font-size: 1.5rem;
+    font-family: cursive;
+    margin-bottom: 1.7rem;
+    color: rgb(105, 195, 198);
+    text-shadow: 0 0 8px black;
+}
+
+footer{
+    font-size: 1.6rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
